@@ -1,0 +1,6 @@
+{
+  "name": "SC0v6: Going Between Representations",
+  "description": "Start of transcript. Skip to the end.\nLet's look at going between representations.\nWe'll start in i, j, k representation\ngoing to the magnitude and angle representation.\nSo if we have our vector, the arbitrary vector\ncould be written as Ax i hat plus Ay j hat.\nIn this particular case, we're given a vector\nminus 2i hat plus 3 hat.\nAnd we'd like to go to the magnitude and angle\nrepresentation.\nSo, first of all, let's draw it out on our grid like this.\nAnd let's find the magnitude.\nSo the magnitude we can find through the Pythagorean\ntheorem.\nIt's just the square root of the x-component squared\nplus the y-component squared.\nAnd now we can find the angle.\nThe angle, the tangent of the angle,\nis just equal to the y-component divided\nby the x-component like this.\nAnd so in this way, we can solve for the angle.\nNow, let's practice going back the other way.\nIf we're given a vector whose magnitude is 2\nand whose angle from the x-axis is 30 degrees,\nlike this one here, then the x-component\nis just the magnitude times the cosine of the angle,\nso 2 times the cosine of 30.\nAnd the y-component is just the magnitude\ntimes the sine of the angle, so 2 times the sine of 30.\nEnd of transcript. Skip to the start",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
